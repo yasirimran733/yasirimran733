@@ -1,8 +1,4 @@
-## Hi there 👋
 
-**yasirimran733/yasirimran733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on<br>Full-stack web applications using Python & Django<br>AI & Machine Learning projects where models are trained from scratch (not just APIs)<br>Real-world problem-solving tools like Campus Connect, and utility web apps<br>Improving my Linux (Fedora) workflow for development and open-source contributions<br><br>👯 I’m looking to collaborate on<br>Open-source projects (especially Python, Django, and backend systems)<br>AI / Machine Learning projects focused on real-world data<br>Hackathons, research projects, and learning-driven collaborations<br><br>🤝 I’m looking for help with<br>Open-source contribution guidance and project onboarding<br>Advanced Django architecture & best practices<br>AI model optimization and real-world ML pipelines<br>Improving system design and scalable backend development<br><br>🌱 I’m currently learning<br>Advanced Django and backend system design<br>Machine Learning fundamentals and applied AI<br>Linux (Fedora & Ubuntu) for professional development workflows<br>Git, GitHub, and collaborative development practices<br>
 
